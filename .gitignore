@@ -1,4 +1,18 @@
+###############
+# Folders
+###############
+#Logs
+
+###############
+# .pyc
+###############
 *.pyc
 hello_world/*.pyc
 blog/*.pyc
+
+###############
+# simple file
+###############
 nohup.out
+Logs/*
+sock/*
