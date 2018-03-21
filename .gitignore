@@ -1,2 +1,4 @@
 *.pyc
+hello_world/*.pyc
+blog/*.pyc
 nohup.out
